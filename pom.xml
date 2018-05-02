@@ -37,8 +37,8 @@
 </dependency>
 </dependencies>
 <scm>
-<connection>scm:svn:http://192.168.33.12:8081/subversion/</connection>
-<developerConnection>scm:svn:http://192.168.33.12:8081/subversion/</developerConnection>
+<connection>scm:git:https://github.com/Ramakanth143/Devops.git</connection>
+<developerConnection>scm:git:https://github.com/Ramakanth143/Devops.git</developerConnection>
 </scm>
 <distributionManagement>
 <repository>
